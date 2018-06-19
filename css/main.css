@@ -1,5 +1,18 @@
+.navbar-end .navbar-item .title {
+    margin-bottom: 0;
+}
+
 .navbar-item img {
     max-height: 4.75rem;
+}
+
+hr {
+    /* background-color: red; */
+    margin: 0.7rem 0;
+}
+
+hr.column {
+    padding: 0.15rem;
 }
 
 .hero {
