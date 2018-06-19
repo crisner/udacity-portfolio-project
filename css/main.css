@@ -1,3 +1,10 @@
 .navbar-item img {
     max-height: 4.75rem;
 }
+
+.hero {
+    background: url(../img/igor-miske-174209_med.jpg) no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 500px;
+}
