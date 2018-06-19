@@ -12,3 +12,7 @@
 .card-content .content p {
     min-height: 3rem;
 }
+
+.footer {
+    padding: 1rem 1.5rem;
+}
