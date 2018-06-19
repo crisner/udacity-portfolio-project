@@ -22,12 +22,6 @@ hr.column {
     height: 500px;
 }
 
-.title.work {
-    padding-bottom: 0.4rem;
-    border-bottom: 0.2rem solid red;
-    width: 19%;
-}
-
 .card-content .content p {
     min-height: 3rem;
 }
