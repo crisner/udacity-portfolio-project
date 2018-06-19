@@ -1,3 +1,7 @@
+body {
+    overflow-x: hidden;
+}
+
 .navbar-end .navbar-item .title {
     margin-bottom: 0.4rem;
 }
@@ -12,6 +16,7 @@ hr {
 }
 
 hr.column {
+    margin: 0;
     padding: 0.15rem;
 }
 
@@ -19,6 +24,7 @@ hr.column {
     background: url(../img/igor-miske-174209_med.jpg) no-repeat;
     background-size: cover;
     background-position: center;
+    max-width: 100%;
     height: 500px;
 }
 
