@@ -1,5 +1,5 @@
 .navbar-end .navbar-item .title {
-    margin-bottom: 0;
+    margin-bottom: 0.4rem;
 }
 
 .navbar-item img {
@@ -28,4 +28,10 @@ hr.column {
 
 .footer {
     padding: 1rem 1.5rem;
+}
+
+@media screen and (max-width: 768px) {
+    .navbar-end {
+        padding-right: 0;
+    }
 }
