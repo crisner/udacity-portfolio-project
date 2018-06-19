@@ -8,3 +8,7 @@
     background-position: center;
     height: 500px;
 }
+
+.card-content .content p {
+    min-height: 3rem;
+}
