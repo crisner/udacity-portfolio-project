@@ -1,5 +1,6 @@
 # Udacity project
 ## Build a portfolio site
+This is a portfolio site built using a mockup as a reference for Udacity's front end development nanodegree project.
 
 ### Made with:
 - HTML
