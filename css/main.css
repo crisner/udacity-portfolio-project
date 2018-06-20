@@ -41,7 +41,7 @@ hr.column {
         padding-right: 0;
     }
     .hero {
-        background: url(../img/igor-miske-174209_med_640.jpg) no-repeat;
+        background: url(../img/igor-miske-174209_med_1280.jpgA) no-repeat;
         background-size: cover;
         background-position: center;
     }
@@ -49,6 +49,9 @@ hr.column {
 
 @media screen and (max-width: 416px) {
     .hero {
+        background: url(../img/igor-miske-174209_med_640.jpg) no-repeat;
+        background-size: cover;
+        background-position: center;
         height: 400px;
     }
 }
