@@ -40,4 +40,15 @@ hr.column {
     .navbar-end {
         padding-right: 0;
     }
+    .hero {
+        background: url(../img/igor-miske-174209_med_640.jpg) no-repeat;
+        background-size: cover;
+        background-position: center;
+    }
+}
+
+@media screen and (max-width: 416px) {
+    .hero {
+        height: 400px;
+    }
 }
